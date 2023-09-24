@@ -18,6 +18,6 @@ Console.WriteLine("Квадарт числа {0} равен = {1}", number, sqr)
 
 
 //Использование библиотеки Math
-int sqr = Convert.ToInt32(Console.ReadLine());
-double sqr_2 = Math.Pow(sqr,2);
-Console.WriteLine("Квадарт числа {0} равен = {1}", sqr, sqr_2);
+// int sqr = Convert.ToInt32(Console.ReadLine());
+// double sqr_2 = Math.Pow(sqr,2);
+// Console.WriteLine("Квадарт числа {0} равен = {1}", sqr, sqr_2);
